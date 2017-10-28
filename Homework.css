@@ -1,0 +1,35 @@
+
+#name{
+    list-style-type:none;
+    text-align: center;
+}
+#name1{
+    list-style-type:none;
+
+}
+.qq{
+    width: 50%;
+
+}
+.rasstoyanie{
+margin-top:10px;
+}
+#vkimg{
+    width:30px;
+    height: 30px;
+}
+.leftimg{
+    float:left;
+    margin: 12px 12px 12px 12px
+}
+.probel{
+    margin-right: 303px;
+}
+ul{
+
+    list-style-position: inside;
+}
+html{
+    background: url('http://hq-oboi.ru/photo/svetlyy_fon_1920x1200.jpg');
+    font-size:medium;
+}
